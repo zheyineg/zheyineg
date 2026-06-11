@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Zheyin (遮阴 - Ⲍⲏⲛ), an Egyptian high school student who loves game development.
+I am Zheyin (遮阴 - ϫⲓⲏⲛⲥⲏⲧ), an Egyptian high school student who loves game development.
 
 I am currently learning skills and basics and trying to learn through creation.
 
