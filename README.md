@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Keros (Καιρός), an Egyptian high school student who loves graphics design.
+I am Zheyin (遮阴 - Ⲍⲏⲛ), an Egyptian high school student who loves graphics design.
 
 I am currently learning skills and basics and trying to learn through creation.
 
@@ -10,7 +10,7 @@ I am currently learning skills and basics and trying to learn through creation.
 _______________________________________________________________________________________________________
 
 ## Tools and Tech
-- Figma
+- Unity
 - Aseprite
 - Visual Studio
 - Krita
